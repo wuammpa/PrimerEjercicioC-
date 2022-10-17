@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HorayNombre/1.0.0": {
+        "runtime": {
+          "HorayNombre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HorayNombre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

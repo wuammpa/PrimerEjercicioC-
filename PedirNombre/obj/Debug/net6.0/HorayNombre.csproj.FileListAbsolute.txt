@@ -1,0 +1,15 @@
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\bin\Debug\net6.0\HorayNombre.exe
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\bin\Debug\net6.0\HorayNombre.deps.json
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\bin\Debug\net6.0\HorayNombre.runtimeconfig.json
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\bin\Debug\net6.0\HorayNombre.dll
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\bin\Debug\net6.0\HorayNombre.pdb
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\HorayNombre.csproj.AssemblyReference.cache
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\HorayNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\HorayNombre.AssemblyInfoInputs.cache
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\HorayNombre.AssemblyInfo.cs
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\HorayNombre.csproj.CoreCompileInputs.cache
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\HorayNombre.dll
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\refint\HorayNombre.dll
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\HorayNombre.pdb
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\HorayNombre.genruntimeconfig.cache
+C:\Users\Jonny\Desktop\projectosc#\HorayNombre\obj\Debug\net6.0\ref\HorayNombre.dll

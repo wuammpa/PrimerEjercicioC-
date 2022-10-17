@@ -1,0 +1,15 @@
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\PidiendoHora.csproj.AssemblyReference.cache
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\PidiendoHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\PidiendoHora.AssemblyInfoInputs.cache
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\PidiendoHora.AssemblyInfo.cs
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\PidiendoHora.csproj.CoreCompileInputs.cache
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\bin\Debug\net6.0\PidiendoHora.exe
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\bin\Debug\net6.0\PidiendoHora.deps.json
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\bin\Debug\net6.0\PidiendoHora.runtimeconfig.json
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\bin\Debug\net6.0\PidiendoHora.dll
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\bin\Debug\net6.0\PidiendoHora.pdb
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\PidiendoHora.dll
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\refint\PidiendoHora.dll
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\PidiendoHora.pdb
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\PidiendoHora.genruntimeconfig.cache
+C:\Users\Jonny\Desktop\projectosc#\PidiendoHora\obj\Debug\net6.0\ref\PidiendoHora.dll
